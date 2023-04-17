@@ -1,9 +1,12 @@
-# 🐧 Why Not Linux - Chasse au trésor 🗝️💻🕵️‍♂️
+<div align="center">
+    <p>
+        🐧🚀 <b>Why Not Linux</b> est un événement dédié à la promotion de Linux et de l'Open Source. Cette année, l'événement inclut une Chasse au Trésor 🗝️🕵️ qui vous permettra de découvrir des indices 🔎, de relever des défis 💪, et de mettre vos compétences à l'épreuve 🧠💻.
+    </p>
+    <h1>🐧 Why Not Linux - Chasse au trésor 🗝️💻🕵️‍♂️</h1>
+    <img src="assets/logo.png" alt="Logo Why Not Linux" width="300"/> 
+    </br></br>
+</div>
 
-# <img src="assets/logo.png" alt="Logo Why Not Linux" width="200"/> Why Not Linux - Chasse au trésor
-
-## 🐧 Description
-🐧🚀 <b>Why Not Linux</b> est un événement dédié à la promotion de Linux et de l'Open Source. Cette année, l'événement inclut une Chasse au Trésor 🗝️🕵️ qui vous permettra de découvrir des indices 🔎, de relever des défis 💪, et de mettre vos compétences à l'épreuve 🧠💻.
 
 
 ## 🗝️ La Chasse au Trésor
