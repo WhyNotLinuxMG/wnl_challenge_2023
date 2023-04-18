@@ -16,11 +16,11 @@ La <b>  Chasse au Trésor </b> est une expérience de jeu amusante et interactiv
 ## 🕵️‍♂️ Étapes
 - Etape 1: Qui suis-je ? 🤔
 - Etape 2: Donne moi la clé ou Ouvre moi la porte. 🔑🚪
-- Etape 3: Nous sommes toujours prêt à vous servir. 🏪👨‍💼
-- Etape 4: Ce fameux moyen de Communication 📞💬
-- Etape 5: Mes différentes histoires: La meilleure version de moi. 📚📖
-- Etape 6: Au cœur des galaxies de l'Univers. 🪐🚀
-- Etape 7: Chassons les Démons 👹🔥
+- Etape 3: Ce fameux moyen de Communication 📞💬
+- Etape 4: Mes différentes histoires: La meilleure version de moi. 📚📖
+- Etape 5: Au cœur des galaxies de l'Univers. 🪐🚀
+- Etape 6: Chassons les Démons 👹🔥
+- Etape 7: Nous sommes toujours prêt à vous servir. 🏪👨‍💼
 - Etape 8: Une demande du client 💼👨‍💼
 - Etape 9: Juste le temps d'un instant. 🕰️⏰
 
